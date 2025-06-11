@@ -1,16 +1,14 @@
-## Hi there 👋
+# Responsive Halloween Website 🎃
+## [Watch it on youtube](https://youtu.be/lgo1CEPZoxg)
+### Responsive Halloween Website 🎃
 
-<!--
-**ejruizgarcia2020/ejruizgarcia2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Responsive Halloween Website Using HTML, CSS & JavaScript.
+- Contains animations when scrolling.
+- It has three color designs (green, red and black)
+- Smooth scrolling in each section.
+- Developed first with the Mobile First methodology, then for desktop.
+- Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
-Here are some ideas to get you started:
+Join the channel to see more videos like this. [Bedimcode](https://www.youtube.com/c/Bedimcode)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![halloween](/preview.png)
